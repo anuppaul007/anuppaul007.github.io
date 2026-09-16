@@ -1,0 +1,30 @@
+window.PORTFOLIO_DATA = {
+  introVideo: "",
+  articles: [],
+  credentials: [
+    {group:"Professional Certifications",title:"Certified Auditor — ISO 9001:2015, ISO 14001:2015, ISO 45001:2018 & ISO 50001:2018",issuer:"DNV",year:"2024",description:"Management systems auditing certification listed in the CV."},
+    {group:"Professional Certifications",title:"ISO 50001:2018 Energy Management System — Implementer",issuer:"DNV",year:"2024",description:"Energy management system implementation training."},
+    {group:"Professional Certifications",title:"Flare Design and Operation",issuer:"Dow Chemical Company",year:"2017",description:"Technical training in flare design and operation."},
+    {group:"Professional Certifications",title:"Loss Prevention Principles",issuer:"Sadara Process Safety Risk Management",year:"2018",description:"Process safety and loss prevention training."},
+    {group:"Professional Certifications",title:"Layers of Protection Analysis (LOPA)",issuer:"Sadara Process Safety Risk Management",year:"2018",description:"LOPA training for process safety risk management."},
+    {group:"Professional Certifications",title:"PHAST Dispersion Modelling",issuer:"DNV-GL",year:"2015",description:"Dispersion modelling training using PHAST."},
+    {group:"Professional Certifications",title:"Process Flowsheet Convergence in Aspen Plus",issuer:"Aspen Technology",year:"2015",description:"Aspen Plus convergence training."},
+    {group:"Professional Certifications",title:"Aspen Simulation Workbook — MS Excel User Interface",issuer:"Aspen Technology",year:"2015",description:"Simulation workbook and Excel interface training."},
+    {group:"Professional Certifications",title:"Non-reactive Relief Devices",issuer:"Dow Chemical Company",year:"2015",description:"Relief device technical training."},
+    {group:"Professional Certifications",title:"Petrochemical Heat Exchanger Design",issuer:"HTRI",year:"2014",description:"Heat exchanger design training."},
+    {group:"Professional Certifications",title:"AFT FATHOM — GSC Module",issuer:"Compusoft Training Center",year:"2014",description:"Hydraulic modelling training."},
+    {group:"Professional Certifications",title:"Process Modelling in Aspen Plus",issuer:"Aspen Technology",year:"2014",description:"Process simulation training."},
+    {group:"Professional Certifications",title:"Flare Network Design and Rating in Aspen Plus",issuer:"Aspen Technology",year:"2014",description:"Flare network modelling and rating training."},
+    {group:"Professional Certifications",title:"Process Control and Instrumentation",issuer:"Haward Technology, Middle East",year:"2013",description:"Process control and instrumentation training."},
+    {group:"Academic Degrees",title:"Postgraduate in General Management (PGGM)",issuer:"Indian Institute of Management Indore",year:"2024",description:"Postgraduate general management program."},
+    {group:"Academic Degrees",title:"Master of Business Administration",issuer:"Alagappa University, India",year:"2006",description:"MBA."},
+    {group:"Academic Degrees",title:"Bachelor of Technology — Chemical Engineering",issuer:"University of Madras, India",year:"2004",description:"Undergraduate degree in Chemical Engineering."},
+    {group:"Technical Presentations",title:"Plant Layout for Inherently Safe Design of a Petrochemical Facility",issuer:"Gulf Downstream Association International Conference",year:"2018",description:"International technical conference paper."},
+    {group:"Technical Presentations",title:"Designing and Modeling Dividing Wall Columns",issuer:"4th Middle East Process Engineering Conference",year:"2017",description:"International technical conference presentation."},
+    {group:"Technical Presentations",title:"Thermal Expansion on a Non-blocked Pipeline — Case Study",issuer:"3rd Global Process Safety Conference, CCPS",year:"2016",description:"International process safety case study."},
+    {group:"Professional Affiliations",title:"Member",issuer:"American Institute of Chemical Engineers (AIChE)",year:"",description:"Professional affiliation listed in the CV."},
+    {group:"Professional Affiliations",title:"Associate Member",issuer:"Institution of Chemical Engineers (IChemE), UK",year:"",description:"Professional affiliation listed in the CV."},
+    {group:"Professional Affiliations",title:"Associate Member",issuer:"Indian Institute of Chemical Engineers (IIChE)",year:"",description:"Professional affiliation listed in the CV."},
+    {group:"Professional Affiliations",title:"Professional Engineer",issuer:"Saudi Council of Engineers (SCE)",year:"",description:"Professional registration listed in the CV."}
+  ]
+};
