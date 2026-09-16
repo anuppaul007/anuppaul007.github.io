@@ -5,6 +5,9 @@
   document.querySelectorAll('.main-nav a').forEach(a => a.addEventListener('click', () => nav?.classList.remove('open')));
   const year = document.getElementById('year'); if (year) year.textContent = new Date().getFullYear();
 
+  const portrait = document.querySelector('.portrait-card img');
+  if (portrait) portrait.addEventListener('error', () => { portrait.src = 'https://avatars.githubusercontent.com/u/224054340?v=4'; }, { once:true });
+
   const data = window.PORTFOLIO_DATA || {};
   const host = document.getElementById('video-host');
   if (host && data.introVideo) {
