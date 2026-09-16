@@ -1,5 +1,5 @@
-# Anup Paul Elias — Professional Web CV
+# Anup Paul Elias — Professional Engineering Portfolio
 
-Professional portfolio website for Anup Paul Elias, hosted on GitHub Pages at https://anuppaul007.github.io/.
+Live site: https://anuppaul007.github.io/
 
-The site is structured for future additions including technical articles, degree certificates, professional certificates, achievement certificates, and a video introduction.
+This repository hosts the professional web CV of Anup Paul Elias, including selected engineering impact, career experience, technical expertise, a scalable article library, credentials and future video introduction content.
